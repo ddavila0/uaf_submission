@@ -54,6 +54,9 @@ Currently this component lives in the following host:<br>
 ###4. Factory.
 The Factory keeps a catalog of all the grid resources and the main attributes of their worker nodes like the number of cores, memory, disk, etc. It also knows the entry point to each of the grid sites also known as Gatekeeper. The Factory is the one allowed to send remote jobs or "pilots" to the sites to requesting a resource allocation. These pilots will be queued or will "land" in a site's batch system and later on when they get to run they will startup a condor Startd that will connect back to the pool's Collector mentioned above.
 
+Currently this component lives in the following host:<br>
+**gfactory-1.t2.ucsd.edu**
+
 ###5. Startds.
 This is the HTCondor component that represents the resources in the pool. On "grid land" the Startds are started by and within the pilots when they get to run in a given site. These startds will represent an allocation of resources in a given site and these resources are available through the UAF infrastructure.
 

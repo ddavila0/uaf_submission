@@ -17,6 +17,7 @@ The pilot information could be submitted at pilot startup and before it goes awa
  
 ### Querying the condor history
 **Description:** Querying the history of condor in each of the schedds one could get information about the "history" of the job
+
 **Pros:**
 * One single point of data source, no need to share password/certificate to push data
 
