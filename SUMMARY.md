@@ -7,6 +7,5 @@
 * Monitoring
     * [UAF monitoring](monitoring/uaf.md)
     * [Not-UAF monitoring](monitoring/not_uaf.md)
-    * [script](monitoring/metrics-influxdb-condor-gangliad)
 * [Puppet](puppet/README.md)
 * [Observations](observations/README.md)
