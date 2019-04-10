@@ -4,6 +4,9 @@
 * [Adding/Removing Entries](entries/README.md)
 * [Frontend configuration](frontend/README.md)
 * [Pilot configuration](pilot/README.md)
-* [Monitoring](monitoring/README.md)
+* Monitoring
+    * [UAF monitoring](monitoring/uaf.md)
+    * [Not-UAF monitoring](monitoring/not_uaf.md)
+    * [script](monitoring/metrics-influxdb-condor-gangliad)
 * [Puppet](puppet/README.md)
 * [Observations](observations/README.md)
