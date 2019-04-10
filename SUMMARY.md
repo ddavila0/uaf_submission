@@ -4,6 +4,6 @@
 * [Adding/Removing Entries](entries/README.md)
 * [Frontend configuration](frontend/README.md)
 * [Pilot configuration](pilot/README.md)
-* Monitoring(monitoring/uaf.md)
+* [Monitoring](monitoring/README.md)
 * [Puppet](puppet/README.md)
 * [Observations](observations/README.md)
